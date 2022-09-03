@@ -13,11 +13,12 @@ The xv6 operating system should be started at this point, and QEMU window should
 
 4. press ***SHIFT + ALT + C*** simultaneously to start copy mode
 5. use ***W, A, S or D*** keys to navigate the cursor
-6. press ***Q*** to start with selection mode, then use navigation keys from 5. to select text to be copied
+6. press ***Q*** to start with selection mode, then use navigation keys from 5. to select the text to be copied
 7. when text is selected press ***E*** to exit selection mode
 8. press ***SHIFT + ALT + C*** simultaneously to exit copy mode
-9. press ***SHIFT + ALT + P*** simultaneously to paste the copied text
-
-During cursor navigation and text selection, when copy mode is on, text over which the cursor passes is colored black-on-white (opposite than the original text).
 
 When exiting the copy mode, cursor will return on the position on the screen from where the copy mode has been started.
+
+9. press ***SHIFT + ALT + P*** simultaneously to paste the copied text
+
+During cursor navigation and text selection, when the copy mode is on, text over which the cursor passes is colored black-on-white (opposite than the original text).
