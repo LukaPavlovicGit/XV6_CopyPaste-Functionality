@@ -18,6 +18,6 @@ The xv6 operating system should be started at this point, and QEMU window should
 8. press ***SHIFT + ALT + C*** simultaneously to exit copy mode
 9. press ***SHIFT + ALT + P*** simultaneously to paste the copied text
 
-During cursor navigation and text selection, in the copy mode, text over which the cursor passes is colored black-on-white (opposite than the original text).
+During cursor navigation and text selection, when copy mode is on, text over which the cursor passes is colored black-on-white (opposite than the original text).
 
 When exiting the copy mode, cursor will return on the position on the screen from where the copy mode has been started.
