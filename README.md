@@ -5,7 +5,7 @@ Xv6 modified to support copy-paste functionality. This project is supposed to wo
 
 To start program follow next steps:
 
-1. Open the terminal in the directory of the project
+1. Open the terminal in project's directory
 2. Call command ***'make clean'***
 3. Then call command ***'make qemu'***
 
