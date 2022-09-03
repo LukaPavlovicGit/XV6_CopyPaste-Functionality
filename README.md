@@ -6,8 +6,8 @@ Xv6 modified to support copy-paste functionality. This project is supposed to wo
 To start program follow next steps:
 
 1. Open the terminal in the directory of the project
-2. Call command 'make clean'
-3. Then call command 'make qemu'
+2. Call command ***'make clean'***
+3. Then call command ***'make qemu'***
 
 The xv6 operating system should be started at this point, and QEMU window should be displayed
 
