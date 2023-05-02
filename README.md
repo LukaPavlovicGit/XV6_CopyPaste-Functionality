@@ -1,4 +1,7 @@
 # xv6 Operating System
+
+## [Official Specification](OS Domaći 1.pdf)
+
 ## Adding copy-paste functionality in the terminal
 
 Xv6 modified to support copy-paste functionality. This project is supposed to work on Linux machine (virtual machine could be handy tool).
