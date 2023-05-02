@@ -1,6 +1,6 @@
 # xv6 Operating System
 
-## [Official Specification](OS-Domaći1.pdf)
+## [Official project specification](OS-Domaći1.pdf)
 
 ## Adding copy-paste functionality in the terminal
 
