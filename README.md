@@ -1,7 +1,7 @@
 # xv6 Operating System
 
 
-## [video demonstration](https://drive.google.com/drive/u/2/folders/1FrJuL7kt6EjnqdTZ21PqKL9_NX0hfS6L)
+## [video demonstration](https://drive.google.com/file/d/1W80GeFmxveAfJZDpjegqjH1-Ki-OzZiL/view?usp=drive_link)
 
 ## [project specification](OS-Domaći1.pdf)
 
