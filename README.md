@@ -1,5 +1,8 @@
 # xv6 Operating System
 
+
+## [video demonstration](domaci1-demo.mp4)
+
 ## [project specification](OS-Domaći1.pdf)
 
 ## Adding copy-paste support in the Xv6 terminal
