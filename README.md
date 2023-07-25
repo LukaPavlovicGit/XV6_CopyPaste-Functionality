@@ -1,9 +1,9 @@
 # xv6 Operating System
 
 
-## [video demonstration](https://drive.google.com/file/d/1W80GeFmxveAfJZDpjegqjH1-Ki-OzZiL/view?usp=drive_link)
+# [video demonstration](https://drive.google.com/file/d/1W80GeFmxveAfJZDpjegqjH1-Ki-OzZiL/view?usp=drive_link)
 
-## [project specification](OS-Domaći1.pdf)
+# [project specification](OS-Domaći1.pdf)
 
 ## Adding copy-paste support in the Xv6 terminal
 
