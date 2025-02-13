@@ -2,29 +2,35 @@
 
 # [project specification](OS-Domaći1.pdf)
 
-## Adding copy-paste support in the XV6 Operating System terminal
+# Copy-Paste Support in XV6 Operating System Terminal
 
-To support the copy-paste functionality, I've added the following functionalities:
-1. 	Entry in copy-paste mode.	
-2.	Text Selection and copying.
-3. 	Text paste.
+## Overview
+I've implemented copy-paste functionality in the terminal with three main features:
+1. Ability to enter copy-paste mode
+2. Text selection and copying
+3. Pasting text
 
-To start the program, follow the steps below:
+## Getting Started
+First, make sure to:
+1. Open your terminal in the project's directory
+2. Run `make clean`
+3. Run `make qemu`
 
-1. Open the terminal in project's directory
-2. Call command ***'make clean'***
-3. Then call command ***'make qemu'***
+At this point, the XV6 operating system should launch and display the QEMU window.
 
-The xv6 operating system should start at this point and the QEMU window should be displayed
+## Using Copy-Paste
+Here's how to use the copy-paste features:
 
-4. press ***SHIFT + ALT + C*** to copy-paste mode
-5. use ***W, A, S or D*** keys to navigate the cursor
-6. press ***Q*** to start with selection mode, then use the navigation keys from 5. to select the text to be copied
-7. when text is selected press ***E*** to exit selection mode
-8. press ***SHIFT + ALT + C*** to exit copy mode
+### Basic Controls
+1. **Enter Copy Mode**: Press `Shift + Alt + C`
+2. **Navigate**: Use `W`, `A`, `S`, or `D` keys to move your cursor around
+3. **Select Text**: 
+   - Press `V` to begin selecting text
+   - Use the navigation keys to highlight what you want to copy
+   - Press `E` when you're done selecting
+4. **Exit Copy Mode**: Press `Shift + Alt + C` again
+   - Your cursor will return to where you started
+5. **Paste**: Press `Shift + Alt + P` to paste your copied text
 
-When exiting copy mode, the cursor returns to the position on the screen from which copy mode was started.
-
-9. press ***SHIFT + ALT + P*** to paste the copied text
-
-When copy mode is enabled, the text over which the cursor passes is colored black on white (as opposed to the original text) during cursor navigation and text selection.
+### Note
+While in copy mode, text under your cursor will appear highlighted (black on white background) to make navigation and selection easier.
